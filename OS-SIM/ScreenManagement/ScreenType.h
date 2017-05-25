@@ -1,0 +1,3 @@
+enum class ScreenType {
+	MAIN_SCREEN, PS_SCREEN, DS_SCREEN, BK_SCREEN, PG_SCREEN
+};
